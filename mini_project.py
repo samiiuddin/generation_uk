@@ -57,3 +57,7 @@ elif user_input == 4:
     drinks.remove(del_input)
   print(f'\n{del_input} has been deleted\n')  
   drinks_index()
+
+  #this is a comment
+  print("This is my Mini Project")
+  
